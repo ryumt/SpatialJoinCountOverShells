@@ -1,0 +1,2 @@
+-include ../LevelDef.mk
+-include $(LEVEL_DIR)SubMakefile/CommonMake.mk
